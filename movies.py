@@ -6,7 +6,7 @@ import cx_Oracle
 
 from tkinter import messagebox, ttk
 
-connection = cx_Oracle.connect("system/Lakhs_123@localhost:1521/xe")
+connection = cx_Oracle.connect("your_username/your_password@localhost:1521/xe") #add your db username/password 
 
 class MovieBookingApp:
     def __init__(self, root):
