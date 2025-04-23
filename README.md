@@ -11,42 +11,46 @@ pip install PIL (or pip install pillow)
 
 # Project using oracle 
 
-meow.sql - this contains the oracle sql code for the booking system   
-meow.py - this contains the python code ,that is connected to oracle  
+movie.sql - this contains the oracle sql code for the booking system   
+movie.py - this contains the python code ,that is connected to oracle  
 (use these files together)
 
 
 # oracle output
-this is how the frontend will look when you use meow.sql and meow.py:
-  
-![image](https://github.com/user-attachments/assets/062ab9e8-7712-4b4c-a796-b1d9a750acd0)
-![image](https://github.com/user-attachments/assets/c73d3ab1-48e6-4c52-9a2b-c58acecf6d03)
+this is how the frontend will look when you use movie.sql and movie.py:
+
+ADMIN SIDE
+![Screenshot 2024-11-16 131508](https://github.com/user-attachments/assets/1de6ed8c-3dac-4cac-90da-368d372a4a29)
+
+![Screenshot 2024-11-16 131542](https://github.com/user-attachments/assets/0e4bf6af-7ed2-41ca-b76d-659022154928)
+
+![Screenshot 2024-11-16 131610](https://github.com/user-attachments/assets/8df31b70-e583-4bb7-b022-1bb6e3c26713)
 
 
-![image](https://github.com/user-attachments/assets/4a6c744b-7261-4b33-8ee5-356789e5a757)
-![image](https://github.com/user-attachments/assets/3e9a0056-fb67-4dbf-80f1-892eecfe799f)
+![Screenshot 2024-11-16 131629](https://github.com/user-attachments/assets/04b987cb-f3d3-4f0c-a54f-2095918898fd)
+![Screenshot 2024-11-16 134644](https://github.com/user-attachments/assets/92b003bc-45a0-41cf-a2ef-a7780eddd8b7)
+![Screenshot 2024-11-16 134406](https://github.com/user-attachments/assets/ea379275-6284-44d5-a886-83313073bd16)
 
-![image](https://github.com/user-attachments/assets/33a547a9-ad05-4485-930a-1c95afd41acb)
-![image](https://github.com/user-attachments/assets/0ba0d2ff-8d2d-4321-a052-98709668b826)
+![Screenshot 2024-11-16 135033](https://github.com/user-attachments/assets/a6ccb8f0-a141-481f-a7ac-448e982e7a42)
 
-![image](https://github.com/user-attachments/assets/6c967b6f-cea2-494f-bef2-8d3c9ff3684b)
-![image](https://github.com/user-attachments/assets/e36c7978-456d-46ca-a66d-20237a63d9b6)
+![Screenshot 2024-11-16 135041](https://github.com/user-attachments/assets/2c07a613-c412-4630-8108-ada1bb15135c)
+![Screenshot 2024-11-16 134336](https://github.com/user-attachments/assets/0965aab1-a259-414b-bd0d-7513f1ff2419)
 
-![image](https://github.com/user-attachments/assets/9c164a6c-8d37-4ae8-a705-3c05644e7824)
-![image](https://github.com/user-attachments/assets/b8e62379-df4f-4cbc-b41e-56e577939470)
+![Screenshot 2024-11-16 134343](https://github.com/user-attachments/assets/74283843-c55f-4790-837c-01ae88253705)
 
+CUSTOMER SIDE
+![Screenshot 2024-11-16 131932](https://github.com/user-attachments/assets/43756068-0193-46ba-b0c7-a20d092ab381)![Screenshot 2024-11-16 131941](https://github.com/user-attachments/assets/f198fcb4-aef4-4f0f-a624-c82291742b7b)
 
-![image](https://github.com/user-attachments/assets/83d499b4-e090-48b8-b6c4-2b741499a458)
-![image](https://github.com/user-attachments/assets/e5844dd3-27f9-4302-88a1-bfbeee1f5abf)
-![image](https://github.com/user-attachments/assets/6ef44e62-96be-4b39-a51d-76495ce1d9e1)
+![Screenshot 2024-11-16 132002](https://github.com/user-attachments/assets/397dd402-eb5f-437a-a93d-50115f97fe9a)
+![Screenshot 2024-11-16 134146](https://github.com/user-attachments/assets/76270dc0-e588-4272-826c-43b71636a5cf)
 
-![image](https://github.com/user-attachments/assets/696a8ea7-7d67-4d49-a5e0-e537828d7ff0)
-![image](https://github.com/user-attachments/assets/15040c01-fb06-4eaa-bc90-977596a910be)
-![image](https://github.com/user-attachments/assets/bcd91de6-6b3a-4287-925d-75c956beece3)
+![Screenshot 2024-11-16 134153](https://github.com/user-attachments/assets/6603e54f-10f1-465a-ab25-769a2904cf50)
+![Screenshot 2024-11-16 134202](https://github.com/user-attachments/assets/e2b169c0-e560-442d-b011-16bf3c7da9fa)
 
+![Screenshot 2024-11-16 134209](https://github.com/user-attachments/assets/676cc25c-1bbc-46fe-93c2-e0c6dc9e7bb3)
 
-![image](https://github.com/user-attachments/assets/da3abcfd-3e1c-4178-b7e9-73b3644e14f3)
-![image](https://github.com/user-attachments/assets/774223d8-905d-49f8-bd27-b60b4b69a7f4)
-
-
+![Screenshot 2024-11-16 134215](https://github.com/user-attachments/assets/20f6122e-8999-4c6d-b568-ed663db6935a)
+![Screenshot 2024-11-16 134230](https://github.com/user-attachments/assets/28c83ff4-f5aa-4fe5-a026-3eb8530a84ec)
+![Screenshot 2024-11-16 134255](https://github.com/user-attachments/assets/d5698a5c-69fc-4eed-a231-37197fdae128)
+![Screenshot 2024-11-16 134302](https://github.com/user-attachments/assets/016c0e8d-9430-4eaa-913a-456285840922)
 
