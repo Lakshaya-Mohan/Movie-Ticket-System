@@ -1,0 +1,11 @@
+seat_id,show_id,seat_number,is_booked
+s1_A1,s1,A1,Y
+s1_A2,s1,A2,N
+s1_A3,s1,A3,N
+s1_A4,s1,A4,Y
+s2_A1,s2,A1,Y
+s2_A2,s2,A2,Y
+s2_A3,s2,A3,Y
+s3_A1,s3,A1,N
+s3_A2,s3,A2,N
+s3_A3,s3,A3,Y
