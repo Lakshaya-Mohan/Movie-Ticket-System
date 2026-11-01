@@ -149,18 +149,18 @@ INSERT INTO Screens (screen_id, seat_count) VALUES (1, 50);
 INSERT INTO Screens (screen_id, seat_count) VALUES (2, 30);  
 
 INSERT INTO Shows (movie_id, screen_id, show_time) 
-VALUES (1, 1, TO_TIMESTAMP('2025-11-15 10:00:00', 'YYYY-MM-DD HH24:MI:SS'));
+VALUES (1, 1, TO_TIMESTAMP('2026-11-15 10:00:00', 'YYYY-MM-DD HH24:MI:SS'));
 
 INSERT INTO Shows (movie_id, screen_id, show_time) 
-VALUES (2, 1, TO_TIMESTAMP('2025-11-15 17:00:00', 'YYYY-MM-DD HH24:MI:SS'));
+VALUES (2, 1, TO_TIMESTAMP('2026-11-15 17:00:00', 'YYYY-MM-DD HH24:MI:SS'));
 
 INSERT INTO Shows (movie_id, screen_id, show_time) 
-VALUES (3, 2, TO_TIMESTAMP('2025-11-15 17:00:00', 'YYYY-MM-DD HH24:MI:SS'));
+VALUES (3, 2, TO_TIMESTAMP('2026-11-15 17:00:00', 'YYYY-MM-DD HH24:MI:SS'));
 
 INSERT INTO Movies (title, duration) VALUES ('Mama Mia ', 90);
 
 INSERT INTO Shows (movie_id, screen_id, show_time) 
-VALUES (4, 1, TO_TIMESTAMP('2025-11-15 20:00:00', 'YYYY-MM-DD HH24:MI:SS'));
+VALUES (4, 1, TO_TIMESTAMP('2026-11-15 20:00:00', 'YYYY-MM-DD HH24:MI:SS'));
 commit;
 
 

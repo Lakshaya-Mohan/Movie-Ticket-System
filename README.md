@@ -6,7 +6,7 @@ oracle - sqlplus (or any other compatible oracle server)
 
 # necessary command line prompts 
 
-pip install cx_Oracle  
+pip install oracledb
 pip install PIL (or pip install pillow)
 
 # Project using oracle 

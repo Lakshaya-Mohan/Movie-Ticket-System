@@ -2,11 +2,11 @@ import tkinter as tk
 from PIL import Image, ImageTk
 from tkinter import messagebox
 from datetime import datetime
-import cx_Oracle
+import oracledb
 
 from tkinter import messagebox, ttk
 
-connection = cx_Oracle.connect("your_username/your_password@localhost:1521/xe") #add your db username/password 
+connection = oracledb.connect("your_username/your_password@localhost:1521/xe") #add your local db username/password 
 
 class MovieBookingApp:
     def __init__(self, root):
